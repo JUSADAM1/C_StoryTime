@@ -31,14 +31,17 @@ namespace STORY_TIME
         {
 
         }
-
+        // Well when we click this button we branch off to form 4
         private void Open_The_Door_Click(object sender, EventArgs e)
         {
+            // Calling form 4
             Form4 openForm = new Form4();
+            // Show form 4
             openForm.Show();
+            // Closing form 3
             Visible = false;
         }
-
+        // Branching off to form 5
         private void Go_To_Room_Click(object sender, EventArgs e)
         {
             Form5 openForm = new Form5();

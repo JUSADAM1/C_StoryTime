@@ -8,6 +8,11 @@ namespace STORY_TIME
 {
     static class Program
     {
+        //keep at all times
+        public static List<string> inventoryList;
+        public static List<string> inventoryList2;
+
+
         /// <summary>
         /// The main entry point for the application.
         /// </summary>

@@ -1,0 +1,6 @@
+C:\Users\J_A_N_Programming357\source\repos\JUSADAM1\C_StoryTime\STORY_TIME\Class1\bin\Debug\Class1.dll
+C:\Users\J_A_N_Programming357\source\repos\JUSADAM1\C_StoryTime\STORY_TIME\Class1\bin\Debug\Class1.pdb
+C:\Users\J_A_N_Programming357\source\repos\JUSADAM1\C_StoryTime\STORY_TIME\Class1\obj\Debug\GameAssets.csprojAssemblyReference.cache
+C:\Users\J_A_N_Programming357\source\repos\JUSADAM1\C_StoryTime\STORY_TIME\Class1\obj\Debug\GameAssets.csproj.CoreCompileInputs.cache
+C:\Users\J_A_N_Programming357\source\repos\JUSADAM1\C_StoryTime\STORY_TIME\Class1\obj\Debug\Class1.dll
+C:\Users\J_A_N_Programming357\source\repos\JUSADAM1\C_StoryTime\STORY_TIME\Class1\obj\Debug\Class1.pdb
